@@ -1,0 +1,7 @@
+3
+8
+AabBcCDd
+2
+ab
+3
+XXY
